@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fantasyui-com/web-fonts/issues"
   },
-  "homepage": "https://github.com/fantasyui-com/web-fonts#readme"
+  "homepage": "https://github.com/fantasyui-com/web-fonts#readme",
+  "dependencies": {
+    "postcss": "^6.0.8"
+  }
 }
