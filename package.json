@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/fantasyui-com/web-fonts#readme",
   "dependencies": {
-    "postcss": "^7.0.17"
+    "postcss": "^7.0.18"
   }
 }
