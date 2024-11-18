@@ -1,6 +1,6 @@
 {
   "name": "web-fonts",
-  "version": "1.25.0",
+  "version": "1.26.0",
   "description": "PostCSS web font injector (PostCSS plugin)",
   "main": "index.js",
   "scripts": {
